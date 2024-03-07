@@ -1,6 +1,9 @@
 <p align="center">
 <img width="500" src="https://github.com/gitwitorg/.github/assets/33395784/6c66bf18-b73d-47c0-b226-a9f78598a1ce" />
 </p>
+<h3 align="center">
+  We make tools to make front-end development easier.
+</h3>
 <div dir="auto">
   <p align="center" dir="auto">
     <a href="https://twitter.com/gitwitdev" rel="nofollow">
