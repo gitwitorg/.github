@@ -32,4 +32,5 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=i4iJd1mLUrk">Combining Static Analysis with LLM Code Generation in GitWit
 </a>
 <p align="center"><a href="https://www.youtube.com/watch?v=0ePzeh34CxI">Code Generation and ReactJS: Matching compatible dependencies</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=O71HFgWq0vc">GitWit January 2024 Update</a>
 </p>
