@@ -22,3 +22,15 @@
 </h3>
 <h4 align="center"><a href="https://github.com/gitwitorg/gitwit-server">GitWit Core: ReactJS Code Generation Library</a></h4>
 <h4 align="center"><a href="https://github.com/gitwitorg/react-eval">ReactEval: Evaluation Framework for ReactJS Code Generation</a></h4>
+<h3 align="center">Video updates:</h3>
+<p align="center"><a href="https://www.youtube.com/watch?v=tMVqY0igi6Q">ReactEval: Evaluating LLM-generated code for ReactJS web apps</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=-7wfs2hJE7M">Our Code Generation (Streaming) Server: Running and testing with OpenAI and OpenAI Mock Server</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=INx3V0xIcu8">Implementing Multi-File Code Generation with LLMs in GitWit
+</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=tMVqY0igi6Q">ReactEval: Evaluating LLM-generated code for ReactJS web apps</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=PX5jEpjKhIw">Code Modularization using LLMs in GitWit (Proof-of-concept)
+</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=i4iJd1mLUrk">Combining Static Analysis with LLM Code Generation in GitWit
+</a>
+<p align="center"><a href="https://www.youtube.com/watch?v=0ePzeh34CxI">Code Generation and ReactJS: Matching compatible dependencies</a>
+</p>
